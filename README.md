@@ -1,6 +1,6 @@
 # Business Card HTML/CSS
-
 This project represents a simple and responsive business card implemented using HTML and CSS.
+![Screenshot 2023-11-19 111533](https://github.com/sinisaandrijevic/business-card/assets/75179259/8d777d29-80cf-4fed-b601-3ecf43aecc44)
 
 ## Overview
 
